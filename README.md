@@ -45,4 +45,4 @@
 ## 🌐 Demo en Vivo | Live Demo
 
 ¡Prueba la aplicación aquí! | Try the application here!  
-[👉 https://googletranslatorsimulator.netlify.app](https://googletranslatorsimulator.netlify.app)
+[👉 [https://googletranslatorsimulator.netlify.app](https://google-translator-simulator.netlify.app/)
